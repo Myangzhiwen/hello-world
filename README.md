@@ -5,4 +5,4 @@ My first github Code.
 # Demo applet
 Some of my demo applet.
 
-更新hello-world.js代码。
+guthub的第一个代码：hello-world.js。
